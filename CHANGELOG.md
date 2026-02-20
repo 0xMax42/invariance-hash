@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [unreleased]
+## [0.1.0-pr.1](https://git.0xmax42.io/maxp/invariance-hash/compare/v0.1.0-pr.0..v0.1.0-pr.1) - 2026-02-20
 
 ### 📚 Documentation
 
