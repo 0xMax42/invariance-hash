@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [unreleased]
+
+### ⚙️ Miscellaneous Tasks
+
+- *(ci)* Sync gitea releases with github in build workflow - ([80c1ca9](https://git.0xmax42.io/maxp/invariance-hash/commit/80c1ca9205985b4f1940492bba5e5a68ca35ced7))
+
 ## [0.1.0-pr.1](https://git.0xmax42.io/maxp/invariance-hash/compare/v0.1.0-pr.0..v0.1.0-pr.1) - 2026-02-20
 
 ### 📚 Documentation
