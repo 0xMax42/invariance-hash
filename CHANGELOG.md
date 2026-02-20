@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [unreleased]
+
+### 📚 Documentation
+
+- Add readme describing usage and semantics - ([b2e4f5a](https://git.0xmax42.io/maxp/invariance-hash/commit/b2e4f5a6646ce314b98a2e89277b766bd53c55ad))
+
 ## [0.1.0-pr.0] - 2026-02-20
 
 ### 🚀 Features
