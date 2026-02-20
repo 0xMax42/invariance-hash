@@ -1,0 +1,15 @@
+Source: invariance-hash
+Section: utils
+Priority: optional
+Maintainer: 0xMax42 <debian@0xMax42.io>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.2
+Homepage: https://git.0xmax42.io/maxp/invariance-hash/
+Vcs-Git: https://git.0xmax42.io/maxp/invariance-hash.git
+Vcs-Browser: https://git.0xmax42.io/maxp/invariance-hash
+
+Package: invariance-hash
+Architecture: all
+Depends: ${misc:Depends}, awk, findutils
+Description: Deterministic invariance hash generator
+ A small utility to compute a reproducible hash over files and directories.
